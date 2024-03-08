@@ -1,0 +1,41 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="deploymentTargetDropDown">
+    <value>
+      <entry key="app">
+        <State>
+          <runningDeviceTargetSelectedWithDropDown>
+            <Target>
+              <type value="RUNNING_DEVICE_TARGET" />
+              <deviceKey>
+                <Key>
+                  <type value="VIRTUAL_DEVICE_PATH" />
+                  <value value="C:\Users\santo\.android\avd\Pixel_6_API_33.avd" />
+                </Key>
+              </deviceKey>
+            </Target>
+          </runningDeviceTargetSelectedWithDropDown>
+          <timeTargetWasSelectedWithDropDown value="2024-03-07T17:02:48.378648400Z" />
+        </State>
+      </entry>
+      <entry key="block6">
+        <State />
+      </entry>
+      <entry key="buttonclicker">
+        <State />
+      </entry>
+      <entry key="controll_lesson1">
+        <State />
+      </entry>
+      <entry key="layout">
+        <State />
+      </entry>
+      <entry key="layoutactivity">
+        <State />
+      </entry>
+      <entry key="layouttype">
+        <State />
+      </entry>
+    </value>
+  </component>
+</project>
